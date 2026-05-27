@@ -21,3 +21,11 @@ This is a simple static website for `cincyachd.org`.
 5. Save.
 6. Add `cincyachd.org` as the custom domain in GitHub Pages.
 7. In Porkbun, point DNS to GitHub Pages using Porkbun's GitHub Pages DNS template or the records GitHub provides.
+
+
+## Recent content updates
+
+- Contact email updated to ACHD@cchmc.org.
+- Upcoming events now include the 35th Annual International Symposium on Adult Congenital Heart Disease.
+- Patient stories link to Cincinnati Children’s ACHD patient stories.
+- Publications section now includes PubMed and Google Scholar search links for the listed Cincy ACHD team members.
